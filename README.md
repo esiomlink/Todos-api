@@ -31,6 +31,11 @@
 ```bash
 $ npm install
 ```
+=> Create postgres bdd whis name "todos" and create table "todos"
+
+=> Open files database.providers.ts in ./src/database
+
+=> Add your databases informations in the sequelize providers
 
 ## Running the app
 
